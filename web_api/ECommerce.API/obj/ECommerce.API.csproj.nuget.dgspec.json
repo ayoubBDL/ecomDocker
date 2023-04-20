@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj": {}
+  },
+  "projects": {
+    "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj",
+        "projectName": "ECommerce.API",
+        "projectPath": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj",
+        "packagesPath": "/home/devfox/.nuget/packages/",
+        "outputPath": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devfox/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,184 @@
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/appsettings.Development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/appsettings.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.deps.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.runtimeconfig.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.AssemblyReference.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfoInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CoreCompileInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.build.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/scopedcss/bundle/ECommerce.API.styles.css
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CopyComplete
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/refint/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.genruntimeconfig.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/22-09-25 ECommerce/ECommerce/ECommerce/ECommerce.API/obj/Debug/net7.0/ref/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/appsettings.Development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/appsettings.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/ECommerce.API
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/ECommerce.API.deps.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/ECommerce.API.runtimeconfig.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.AssemblyReference.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfoInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CoreCompileInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets.build.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/staticwebassets.development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/scopedcss/bundle/ECommerce.API.styles.css
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CopyComplete
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/refint/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ECommerce.API.genruntimeconfig.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce.API/obj/Debug/net7.0/ref/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/appsettings.Development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/appsettings.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.AssemblyReference.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfoInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CoreCompileInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.build.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/staticwebassets.development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/scopedcss/bundle/ECommerce.API.styles.css
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CopyComplete
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/refint/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.deps.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.runtimeconfig.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/bin/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ECommerce.API.genruntimeconfig.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/ECommerce/ECommerce.API/obj/Debug/net7.0/ref/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/appsettings.Development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/appsettings.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/ECommerce.API
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/ECommerce.API.deps.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/ECommerce.API.runtimeconfig.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.AssemblyReference.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfoInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.AssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CoreCompileInputs.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ECommerce.API.props
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets.build.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/staticwebassets.development.json
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/scopedcss/bundle/ECommerce.API.styles.css
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.csproj.CopyComplete
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/refint/ECommerce.API.dll
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.pdb
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ECommerce.API.genruntimeconfig.cache
+/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/Debug/net7.0/ref/ECommerce.API.dll
