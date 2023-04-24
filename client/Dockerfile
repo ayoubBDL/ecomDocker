@@ -1,17 +1,11 @@
 #Compile and build angular app
-FROM node:latest as build
+FROM node:18 as build
 
-WORKDIR /usr/local/app
+RUN mkdir /usr/src/app
+WORKDIR /usr/src/app
 
-COPY . /usr/local/app
+RUN npm install -g @angular/cli
 
-RUN npm install
+COPY . /usr/src/app
 
-RUN npm run build
-
-#serve app with nginx
-FROM nginx:latest
-
-COPY --from=build /usr/local/app /usr/share/nginx/html
-
-EXPOSE 80
+CMD ng serve --host 0.0.0.0 --port 5010
