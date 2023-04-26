@@ -3,7 +3,7 @@ services:
   web_api:
     build: ./web_api/ECommerce.API
     ports:
-      - "7149:7149"
+      - "7149:80"
   client:
     build: ./client
     volumes:

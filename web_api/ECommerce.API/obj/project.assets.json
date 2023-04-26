@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net6.0": {
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.8": {
         "type": "package",
         "dependencies": {
@@ -1936,7 +1936,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net6.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.8",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.IdentityModel.Tokens >= 6.23.1",
@@ -1946,30 +1946,29 @@
     ]
   },
   "packageFolders": {
-    "/home/devfox/.nuget/packages/": {}
+    "C:\\Users\\ayoub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj",
+      "projectUniqueName": "D:\\Projects\\.net\\ecomDocker\\web_api\\ECommerce.API\\ECommerce.API.csproj",
       "projectName": "ECommerce.API",
-      "projectPath": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/ECommerce.API.csproj",
-      "packagesPath": "/home/devfox/.nuget/packages/",
-      "outputPath": "/home/devfox/Downloads/22-09-25 ECommerce-20230417T220346Z-001/ECommerce_Dotnet/web_api/ECommerce.API/obj/",
+      "projectPath": "D:\\Projects\\.net\\ecomDocker\\web_api\\ECommerce.API\\ECommerce.API.csproj",
+      "packagesPath": "C:\\Users\\ayoub\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\.net\\ecomDocker\\web_api\\ECommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/devfox/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ayoub\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -1980,8 +1979,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
@@ -2027,7 +2026,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
