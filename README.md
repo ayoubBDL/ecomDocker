@@ -1,5 +1,9 @@
 # EcomDocker
-This is a project that consists of a website UI built with Angular and a web API built with .NET. The projects are deployed using a Docker Compose file, which creates three containers: one for the UI, one for the web API, and one for the MySQL server.
+This is a project that consists of a website UI built with Angular and a web API built with .NET. The projects are deployed using a Docker Compose file, which creates three containers: one for the UI, one for the web API, and one for the SQL server.
+
+# Purpose
+
+The purpose of this project is to provide a practical example of how to build a scalable and maintainable full-stack web application using Angular, .NET, Docker, and SQL Server for a technical test requested while I'm applying to a Software Engineer Position for Hahn Software. 
 
 ## Getting Started
 To get started with this project, you will need to have Docker installed on your machine. You can download Docker from the official website: https://www.docker.com/get-started.
@@ -16,7 +20,7 @@ Copy code
 ```
 docker-compose up
 ```
-This will create the three containers (UI, web API, and MySQL server) and start the application. You can access the UI at http://localhost:5010 and the web API at http://localhost:5000.
+This will create the three containers (UI, web API, and SQL server) and start the application. You can access the UI at http://localhost:5010 and the web API at http://localhost:5000.
 
 ## Database Scripts
 
@@ -29,7 +33,7 @@ To execute these scripts, connect to the SQL server container using a SQL client
 
 ## Technologies Used
 
-- Angular
-- .NET
-- Docker
-- MySQL
+- Angular: A framework for building web applications using TypeScript
+- .NET: A framework for building web applications and services using C#
+- Docker: A platform for building, shipping, and running applications using containers
+- SQL Server: A powerful and reliable database management system
