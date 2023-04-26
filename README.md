@@ -1,4 +1,4 @@
-# Project Name
+# EcomDocker
 This is a project that consists of a website UI built with Angular and a web API built with .NET. The projects are deployed using a Docker Compose file, which creates three containers: one for the UI, one for the web API, and one for the MySQL server.
 
 ## Getting Started
